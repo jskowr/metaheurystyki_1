@@ -1,0 +1,109 @@
+60:
+
+1447
+1454
+1387
+1461
+1473
+1443
+1474
+1488
+1412
+1470
+A-n60-k9,tournament,OX,inversion,pop_size=300,gen=30000,Px=0.65,Pm=0.18,Tour=20
+EA (10)....best: 1387, worst: 1488, avg: 1450, std: 29.24038303442689
+Took 328 s
+
+32:
+
+835
+839
+836
+836
+797
+832
+835
+831
+837
+828
+A-n32-k5,tournament,OX,inversion,pop_size=300,gen=30000,Px=0.65,Pm=0.18,Tour=20
+EA (10)....best: 797, worst: 839, avg: 830, std: 11.61895003862225
+
+37:
+
+1016
+984
+1001
+986
+999
+963
+972
+970
+1002
+988
+A-n37-k6,tournament,OX,inversion,pop_size=300,gen=30000,Px=0.65,Pm=0.18,Tour=20
+EA (10)....best: 963, worst: 1016, avg: 988, std: 15.7797338380595
+Took 208 s
+
+39:
+
+880
+909
+869
+853
+905
+881
+831
+835
+886
+853
+A-n39-k5,tournament,OX,inversion,pop_size=300,gen=30000,Px=0.65,Pm=0.18,Tour=20
+EA (10)....best: 831, worst: 909, avg: 870, std: 25.573423705088842
+Took 214 s
+
+45:
+981
+1020
+1013
+1002
+1012
+1042
+1036
+984
+964
+994
+A-n45-k6,tournament,OX,inversion,pop_size=300,gen=30000,Px=0.65,Pm=0.18,Tour=20
+EA (10)....best: 964, worst: 1042, avg: 1004, std: 23.45207879911715
+Took 290 s
+
+48:
+
+1125
+1202
+1124
+1136
+1159
+1155
+1134
+1074
+1202
+1144
+A-n48-k7,tournament,OX,inversion,pop_size=300,gen=30000,Px=0.65,Pm=0.18,Tour=20
+EA (10)....best: 1074, worst: 1202, avg: 1145, std: 35.874782229304195
+Took 259 s
+
+54:
+
+1196
+1293
+1222
+1236
+1274
+1226
+1219
+1288
+1253
+1250
+A-n54-k7,tournament,OX,inversion,pop_size=300,gen=30000,Px=0.65,Pm=0.18,Tour=20
+EA (10)....best: 1196, worst: 1293, avg: 1245, std: 30.215889859476256
+Took 285 s
